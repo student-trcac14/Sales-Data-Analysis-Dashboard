@@ -14,4 +14,8 @@ This project analyzes sales data using Power BI to identify trends and insights.
 - Compared sales across regions
 
 - # Dashboard Overview
-  
+  https://github.com/student-trcac14/Sales-Data-Analysis-Dashboard/blob/main/SALES-DASHBOARD.png?raw=true
+
+  # Files Included
+  -Power BI Dashboard
+  -Dataset (.csv)
